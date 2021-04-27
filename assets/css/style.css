@@ -1,0 +1,17 @@
+.h1 {
+	font-family: sans-serif,monospace;
+	font-size: 25px;
+	font-style: oblique;
+	text-transform: capitalize;
+}
+
+.img-fluid {
+	width: 18px;
+	height: auto;
+}
+
+ul,li {
+	font-family: Montserrat,sans-serif;
+	font-size: medium;
+	color: #000;
+}
