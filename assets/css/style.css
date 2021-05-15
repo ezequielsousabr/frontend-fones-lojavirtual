@@ -3,6 +3,10 @@ body {
 	height: 100%;
 }
 
+* {
+	margin: 0;
+}
+
 .h1 {
 	font-family: sans-serif,monospace;
 	font-size: 25px;
@@ -78,4 +82,8 @@ ul,li {
 	font-family: sans-serif,arial,monospace;
 	font-size: medium;
 	font-weight: 600;
+}
+
+.container-footer {
+	background-color: #efe1e1;
 }
