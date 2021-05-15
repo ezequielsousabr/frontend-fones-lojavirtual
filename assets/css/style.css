@@ -1,3 +1,8 @@
+body {
+	width: 100%;
+	height: 100%;
+}
+
 .h1 {
 	font-family: sans-serif,monospace;
 	font-size: 25px;
@@ -10,8 +15,67 @@
 	height: auto;
 }
 
+.logo {
+	width: 100px;
+	height: auto;
+}
+
+.fone {
+	width: 500px;
+	height: auto;
+}
+
+.classificacao img {
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: 20px;
+	margin-bottom: auto;
+	width: 100px;
+	height: auto;
+}
+
 ul,li {
 	font-family: Montserrat,sans-serif;
 	font-size: medium;
 	color: #000;
+}
+
+/* Formatação do container do lado direito dos detalhes do produto */
+
+.container-detalhes {
+	margin: auto 0 auto auto;
+	max-width: 75%;
+	height: auto;
+}
+
+.container-detalhes .h2 {
+	font-weight: 600;
+	font-size: 45px;
+}
+
+.h2, .classificacao {
+	color: #dc3545;
+}
+
+.container-preco {
+	margin: auto;
+	padding: auto;
+}
+
+.container-preco span {
+	margin-left: 0;
+	margin-right: 100px;
+}
+
+.preco {
+	font-family: inherit;
+	font-size: 28px;
+	font-weight: 600;
+	color: #000;
+}
+
+.subtitulos span {
+	font-family: sans-serif,arial,monospace;
+	font-size: medium;
+	font-weight: 600;
 }

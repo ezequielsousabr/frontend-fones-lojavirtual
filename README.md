@@ -33,3 +33,8 @@ Cinza: #707070<br>
 ## TIPO DE FONTES UTILIZADAS
 
 - Montserrat
+
+
+### EXERCÍCIO
+
+Realizar o clone da pagina de vendas de fones de ouvido.
