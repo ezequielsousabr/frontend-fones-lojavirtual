@@ -1,6 +1,6 @@
 # FONE LANDPAGE
 
-![FONE LANDPAGE](./design/desktop.png)
+![FONE LANDPAGE](https://i.postimg.cc/RFXqHZVm/fonesdeouvido.png)
 
 Exercício proposto para realizar uma pagina de vendas (Landpage) de fones de ouvidos.<br>
 
